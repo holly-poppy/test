@@ -4,10 +4,6 @@ This is a test file.
 
 test
 
-<<<<<<< HEAD
-print('hello world!')
-=======
-print('hello world!')
+001
 
 revise
->>>>>>> 900567a8a4128e199c3a89cf986a15ea9e813d75
